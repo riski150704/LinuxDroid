@@ -1,3 +1,3 @@
 #Welcome To LinuxDroid
-#Please Read File README.md On Folder
+#Please Read File panduan.txt On Folder
 
