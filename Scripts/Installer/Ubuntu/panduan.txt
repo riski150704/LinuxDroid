@@ -1,0 +1,7 @@
+
+  
+Copy Command:
+pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/riski150704/LinuxDroid/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
+
+Paste To Termux And Install
+start To ./start-ubuntu.sh
