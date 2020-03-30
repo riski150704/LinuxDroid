@@ -1,0 +1,2 @@
+command:
+wget https://raw.githubusercontent.com/riski150704/LinuxDroid/master/DesktopEnvironment/Apt/LXDE/de-apt-lxde.sh && bash de-apt-lxde.sh
