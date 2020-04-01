@@ -1,0 +1,5 @@
+Copy Command:
+pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/riski150704/LinuxDroid/master/Scripts/Installer/Backbox/backbox.sh && bash backbox.sh
+
+Paste To Termux And Install
+start To ./start-backbox.sh
